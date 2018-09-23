@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    [class*="col-"] {
+        width: 100%;
+
+
+body{
+margin: 0;
+padding: 0;
+background: linear-gradient(90deg,#9b34c3,#6e48aa,#9d50bb);
+font-family: 'Quicksand', sans-serif;
+}
+
+#typed{
+  width: 80%;
+  position: absolute;
+  top: 20%;
+  left: 30%;
+  transform: translate(-50%, -50%);
+  color: #fff;
+  text-align: center;
+}
+.wrap{
+  width: 70%;
+  position: absolute;
+  top: 30%;
+  left: 30%;
+  transform: translate(-50%, -50%);
+}
+.search {
+  width: 100%;
+  position: relative
+}
+
+
+
+
+
+
+}
+}
