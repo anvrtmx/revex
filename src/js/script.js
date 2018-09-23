@@ -1,7 +1,7 @@
 $(function(){
 
   $("#typed").typed({
-    strings: ["Welcome to ReveX", "Check your website", "Technology for all", "TeamX IT Solutions"],
+    strings: ["Welcome to RevX", "Check your website", "Technology for all", "TeamX IT Solutions"],
     typeSpeed: 100,
     callback: function(){
       shift();
